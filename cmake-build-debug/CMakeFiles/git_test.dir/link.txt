@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/git_test.dir/main.cpp.o CMakeFiles/git_test.dir/Complex.cpp.o  -o git_test.exe -Wl,--out-implib,libgit_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
