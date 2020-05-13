@@ -3,6 +3,9 @@
 
 
 class Complex {
+private :
+    double real;
+    double img;
 
 };
 
